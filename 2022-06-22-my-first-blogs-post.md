@@ -1,5 +1,10 @@
-```
-title: nothing is fair in love and war. Respect eachother you idiots!
-```
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
-<h3> 3rd form of header
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
